@@ -1,1 +1,1 @@
-print("Hello, world!")
+print("Conflicts make me unhappy :(")
